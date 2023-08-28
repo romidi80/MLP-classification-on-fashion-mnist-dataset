@@ -7,4 +7,4 @@ The optimal model is sought through examining the impact of changing multiple fe
 
 Through a comprehensive analysis of various factors, including validation data distribution, hyperparameters, layer depth, solver choice, and learning rate, we have identified the key elements that optimize the MLP classifier's accuracy. These insights contribute to the enhancement of the model's performance and its ability to accurately classify data.
 
-![image](https://github.com/romidi80/MLP-classification-on-fashion-mnist-dataset/assets/89667194/3760a623-a3e4-4cb5-8fbd-bba08ca3274c)
+![image](https://github.com/romidi80/MLP-classification-on-fashion-mnist-dataset/assets/89667194/bffe3036-8af0-49df-b3a6-3cdea6957804)
